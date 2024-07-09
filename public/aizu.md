@@ -9,7 +9,7 @@ tags:
 private: false
 updated_at: ''
 id: null
-organization_url_name: https://qiita.com/organizations/tech-commit
+organization_url_name: 'tech-commit'
 slide: false
 ignorePublish: false
 ---
