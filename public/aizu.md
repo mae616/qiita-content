@@ -1,15 +1,15 @@
 ---
 title: AIZU ONLINE JUDGEの提出前コードをVSCodeでテストする
 tags:
-  - '個人的メモ'
-  - 'JavaScript'
-  - 'Node.js'
-  - '競技プログラミング'
-  - 'VSCode'
+  - JavaScript
+  - Node.js
+  - 競技プログラミング
+  - 個人的メモ
+  - VSCode
 private: false
-updated_at: ''
-id: null
-organization_url_name: 'tech-commit'
+updated_at: '2024-07-09T23:42:13+09:00'
+id: d850b8cf79679e6e521b
+organization_url_name: tech-commit
 slide: false
 ignorePublish: false
 ---
