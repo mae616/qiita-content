@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "a7ad1d490f5dec8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9690d79763c4824b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e232a80b2fefeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "public/d96ce57f3ebc9e326a90.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8db508aa608fe516",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1f9b0eeccabc41c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "945557aa80d488ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4fa17a10676043a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f0ee7d0bb81d884",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "186ec18fad72b97b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6371b474ad8af608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd95a6d2a9649c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "public/d96ce57f3ebc9e326a90.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1c20015fd96c954",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "public/d96ce57f3ebc9e326a90.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d59af60b28ecec29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd2fa0caeb91af82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "public/d96ce57f3ebc9e326a90.md"
+              }
+            }
+          },
+          {
+            "id": "73d01afb031534fd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "9e232a80b2fefeb7",
+  "lastOpenFiles": [
+    "public/ec3848232f4ab053f60a.md",
+    "public/fec54846ddab7d2d517f.md",
+    "public/ff211eba6ad802d18331.md",
+    "public/bbf35f97396301ac2e6d.md",
+    "public/6a0fb91ddfca5fdf8062.md"
+  ]
+}
